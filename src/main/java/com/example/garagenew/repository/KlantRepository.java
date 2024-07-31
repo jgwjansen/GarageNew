@@ -1,4 +1,4 @@
-package com.example.garagenew.repositories;
+package com.example.garagenew.repository;
 
 
 import com.example.garagenew.domein.Klant;
